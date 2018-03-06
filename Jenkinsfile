@@ -4,7 +4,7 @@ pipeline {
 
     tools {
 
-        jdk 'jdk9'
+        jdk 'jdk8'
 
         maven 'maven3'
 
